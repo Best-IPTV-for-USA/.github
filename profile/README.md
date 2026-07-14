@@ -366,6 +366,231 @@ Philo and Sling TV remain two of the most affordable legal IPTV options.
 
 ---
 
+# IPTV Providers List
+
+- **Lux IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Live TV & Movies
+  - Free Trial: Yes
+
+- **GitHub IPTV**
+  - Type: Open Source Playlist
+  - Availability: Worldwide
+  - Best For: Free Public Channels
+  - Free Trial: Free
+
+- **Abonnement IPTV**
+  - Type: Subscription IPTV
+  - Availability: Worldwide
+  - Best For: Premium Streaming
+  - Free Trial: Depends
+
+- **Sonix IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports & Entertainment
+  - Free Trial: Yes
+
+- **Guru IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: 4K Streaming
+  - Free Trial: Yes
+
+- **M3U IPTV**
+  - Type: Playlist Format
+  - Availability: Worldwide
+  - Best For: Compatible IPTV Players
+  - Free Trial: Free
+
+- **Kemo IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports
+  - Free Trial: 24 Hours
+
+- **Headend IPTV**
+  - Type: TV Backend Software
+  - Availability: Worldwide
+  - Best For: Self-Hosted IPTV
+  - Free Trial: Open Source
+
+- **Xtream IPTV**
+  - Type: IPTV Platform
+  - Availability: Worldwide
+  - Best For: IPTV Panels
+  - Free Trial: No
+
+- **Smart IPTV**
+  - Type: IPTV Player App
+  - Availability: Worldwide
+  - Best For: Smart TVs
+  - Free Trial: 7 Days
+
+- **IPTV Satın Al**
+  - Type: Subscription IPTV
+  - Availability: Turkey
+  - Best For: Turkish Channels
+  - Free Trial: Depends
+
+- **Xtreme HD IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports & 4K Streaming
+  - Free Trial: 36 Hours
+
+- **Trex IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Movies
+  - Free Trial: Yes
+
+- **Viking IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Nordic Channels
+  - Free Trial: Yes
+
+- **Strong IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: HD Streaming
+  - Free Trial: Yes
+
+- **XCodes IPTV**
+  - Type: IPTV Reseller Platform
+  - Availability: Worldwide
+  - Best For: IPTV Resellers
+  - Free Trial: No
+
+- **IPTV Trends**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports
+  - Free Trial: 24 Hours
+
+- **Boss IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Entertainment
+  - Free Trial: Yes
+
+- **XtremeHD IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: 4K Content
+  - Free Trial: 36 Hours
+
+- **Gamma IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Movies
+  - Free Trial: Unknown
+
+- **Realm IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: General TV
+  - Free Trial: Unknown
+
+- **4K Live IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: 4K Live Sports
+  - Free Trial: Yes
+
+- **King IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Family Entertainment
+  - Free Trial: Yes
+
+- **4K IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Ultra HD
+  - Free Trial: Depends
+
+- **Xtreme IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports
+  - Free Trial: Yes
+
+- **Apollo IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Movies
+  - Free Trial: 10 Days
+
+- **Extreme IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Live TV
+  - Free Trial: Depends
+
+- **Premium IPTV**
+  - Type: Subscription IPTV
+  - Availability: Worldwide
+  - Best For: General Use
+  - Free Trial: Depends
+
+- **Nomad IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Travelers
+  - Free Trial: Unknown
+
+- **Nordic IPTV**
+  - Type: Premium IPTV
+  - Availability: Nordic Countries
+  - Best For: Nordic TV Channels
+  - Free Trial: Yes
+
+- **Strong 8K IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: 8K Streaming
+  - Free Trial: Unknown
+
+- **Apollo Group IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Entertainment
+  - Free Trial: 10 Days
+
+- **IPTV Great**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: General TV
+  - Free Trial: Unknown
+
+- **Eternal IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports & Movies
+  - Free Trial: Yes
+
+- **Mine IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Live TV
+  - Free Trial: Unknown
+
+- **EagleCast IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Sports
+  - Free Trial: Yes
+
+- **Zyminex IPTV**
+  - Type: Premium IPTV
+  - Availability: Worldwide
+  - Best For: Entertainment
+  - Free Trial: Unknown
+---
+
 # Conclusion
 
 Legal IPTV services have become one of the best alternatives to traditional cable TV in 2026. Whether you're looking for live sports, local channels, entertainment, or family programming, there's a licensed streaming option that fits your needs.
