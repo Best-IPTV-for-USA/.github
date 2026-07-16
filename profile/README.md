@@ -14,6 +14,9 @@ In this guide, we'll compare the leading licensed IPTV providers available in 20
 
 Unlike questionable IPTV services that may operate without proper licensing, every provider on this list is a recognized streaming platform offering legitimate subscriptions.
 
+<img src="https://github.com/Best-IPTV-for-USA/.github/blob/21ca48a90f36c230654c8ee18a0b931785dd671f/Fectured-image.jpeg" alt="Featured Image" width="1200">
+
+
 ---
 
 ## Learn More About IPTV Technology
