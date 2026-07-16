@@ -87,7 +87,10 @@ Legal IPTV has become one of the most practical ways to enjoy live TV without th
 
 ---
 
-# **[YouTube TV](https://tereatv.com/billing/aff.php?aff=106)**  (Best Overall)
+# **[YouTube TV](https://tereatv.com/billing/aff.php?aff=106)**  (Best Overall
+
+<img src="https://github.com/Best-IPTV-for-USA/.github/blob/76674a7b37a740c453ee0b16aeb62d6ca1a7acec/youtube-tv.jpeg" alt="Featured Image" width="1200">
+
 
 ## Overview
 
