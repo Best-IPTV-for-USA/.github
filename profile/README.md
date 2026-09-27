@@ -16,7 +16,7 @@ The only hard part is choosing a provider. This guide ranks 13 of the best IPTV 
 |---|----------|----------|----------------------|-------|
 | 1 | [TereaTV](https://tereatv.com/billing/aff.php?aff=106) | Largest catalogue | 50,000+ channels, 150,000+ VOD, HD/4K, EPG | 24-hour (advertised) |
 | 2 | [BunnyStream](https://bunnystream.com/clients/aff.php?aff=356) | Movies & series | 16,000+ channels, large VOD library, HD/FHD/4K | Trial option |
-| 3 | [Alakh IPTV](https://alakh.art/billing/aff.php?aff=28) | 4K & sports | 28,000+ channels, 100,000+ VOD, 4K/UHD, sports & PPV | 24-hour (advertised) |
+| 3 | [Alakh IPTV](https://www.alakhiptv.com/) | 4K & sports | 28,000+ channels, 100,000+ VOD, 4K/UHD, sports & PPV | 24-hour (advertised) |
 | 4 | Zorba IPTV | Reliability | 18,000+ channels, HD/4K, own server infrastructure | 48-hour (advertised) |
 | 5 | StreamKing IPTV | Live sports | Sports packages, NFL/NBA/MLB networks, multi-device | Check listing |
 | 6 | NovaStar IPTV | Beginners | Custom app, simple setup, TV-guide interface | Check listing |
@@ -111,7 +111,7 @@ Most IPTV services stop at HD and call it a day. If crisp picture quality and sp
 
 **Verdict:** the best pick for sports fans and anyone who wants 4K options. For 4K streaming you'll want at least 25 Mbps internet.
 
-👉 **[Check Alakh IPTV — explore current options](https://alakh.art/billing/aff.php?aff=28)**
+👉 **[Check Alakh IPTV — explore current options](https://www.alakhiptv.com/)**
 
 ---
 
@@ -334,7 +334,7 @@ There isn't one IPTV service that fits every household, but the comparison is si
 
 - **Biggest advertised catalogue** → [TereaTV](https://tereatv.com/billing/aff.php?aff=106)
 - **Movies & TV series on demand** → [BunnyStream](https://bunnystream.com/clients/aff.php?aff=356)
-- **4K / UHD and sports features** → [Alakh IPTV](https://alakh.art/billing/aff.php?aff=28)
+- **4K / UHD and sports features** → [Alakh IPTV](https://www.alakhiptv.com/)
 - **Compare all 13 in one place** → [IPTV-New](https://www.iptv-new.com/)
 
 Stop overpaying for channels you never watch. Pick a service, grab the trial, and give it a week on your own connection.
