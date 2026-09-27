@@ -30,6 +30,15 @@ The only hard part is choosing a provider. This guide ranks 13 of the best IPTV 
 
 > ⚠️ All feature counts, quality options and trials above are **as advertised by the providers** and change regularly. Verify current details, pricing and content directly on each provider's official site before subscribing.
 
+## 📢 Promote Your IPTV Service
+
+If you'd like to **advertise your IPTV company**, contact:
+
+- **Email:** [thebestusaiptv@gmail.com](mailto:thebestusaiptv@gmail.com)
+- **Telegram:** [@pakainfo](https://t.me/pakainfo)
+
+We help boost traffic, improve rankings with **Parasite SEO**, and maximize IPTV promotions.
+
 ---
 
 ## What to Check Before Choosing Any IPTV Service
